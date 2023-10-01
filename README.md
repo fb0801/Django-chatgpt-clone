@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=yYL17z3eOZY
 https://pypi.org/project/psycopg2-binary/
 
 https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8
+
+https://tickets.dominodatalab.com/hc/en-us/articles/14144027173012-Clearing-Git-Cache#:~:text=The%20easiest%20way%20to%20clear,git%20rm%20%2Dr%20%2D%2Dcached%20.
+
+https://platform.openai.com/docs/api-reference/images/create
