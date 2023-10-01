@@ -4,7 +4,11 @@ Django CHATGPT clone
 
 ## Issues:
 
+- fixed DB issue by creating superuser
+
 ## Changes made:
+
+ instead of sqlite db we have changed to postgres
 
 ## Resources used:
 
