@@ -18,7 +18,7 @@ openai.api_key = openai_api_key
 # Create your views here.
 def ask_openai(message):
     response = openai.ChatCompletion.create(
-        model = "gpt-4",
+        model = "gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are an helpful assistant."},
             {"role": "user", "content": message},
